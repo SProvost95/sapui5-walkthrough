@@ -1,0 +1,7 @@
+specVersion: '2.4'
+metadata:
+  name: sap.m.tutorial.walkthrough
+type: application
+framework:
+  name: OpenUI5
+  version: "1.92.0"
